@@ -1,14 +1,6 @@
 
 # Poke wiki v1.0
 Hi everyone, welcome on my repo! 
-## Quick Links🌐  
-1. [portfolio](https://marcheseleo.github.io/my-portfolio/)  
-2. [info](#info)  
-3. [languages](#language)
-4. [contacts](#contacts)  
-5. [credits](#credits)
-
-
 ****
 ## Info
 It's a simple wiki page for searching simpe info about pokemon!
